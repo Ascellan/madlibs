@@ -1,2 +1,2 @@
 # MadLibs
-Mad Libs Generator 
+Mad Libs Generator with a horror twist
